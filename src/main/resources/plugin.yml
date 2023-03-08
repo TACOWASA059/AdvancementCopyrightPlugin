@@ -1,0 +1,8 @@
+name: AdvancementCopyrightPlugin
+version: '${project.version}'
+main: com.github.tacowasa059.advancementcopyrightplugin.AdvancementCopyrightPlugin
+api-version: 1.16
+commands:
+  resetAchievement:
+    description: reset player achievement and clear the inventory of player
+    usage: /<command>
